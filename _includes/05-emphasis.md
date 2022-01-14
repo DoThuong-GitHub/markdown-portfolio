@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Make a file with list**
+1. *List to do*
+2. *List of notes*
+3. *List with tick*
+
+***After finished, need preview***
