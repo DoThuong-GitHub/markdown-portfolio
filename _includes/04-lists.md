@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+1. Favourite foods
+    🥖
+    🍎
+    🍌
+2. Travel places
+    🗾
+    🏔️
+    🏖️
+3. Hobby
+   *Take photos
+   *Draw
+   *Traveling
